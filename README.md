@@ -1,3 +1,3 @@
-# img/
+# this Lading Page is created by Mohammad
 --------
-<h1> The images on the page <h2/>
+<h1> Apple Watch Lading Page <h2/>
