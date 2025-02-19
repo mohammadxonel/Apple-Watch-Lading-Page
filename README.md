@@ -3,4 +3,4 @@
 ---
 
 ### project screenshot
-![](https://github.com/mohammadxxali/Apple-Watch-Lading-Page/blob/main/screenshot.png)
+![](https://github.com/mohammadxonel/Apple-Watch-Lading-Page/blob/main/screenshot.png)
